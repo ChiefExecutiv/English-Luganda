@@ -349,4 +349,3 @@ while True:
         console.print(f"Luganda: {decode_sequence(command)}", style="bold cyan")
         time.sleep(1)
 
-# Page 389
